@@ -1,5 +1,4 @@
-<h1 align="center">My name is Charalampos Semelidis</h1>
-<h3 align="center">Currently an undergraduate student in Applied Informatics(degree..loading)</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
