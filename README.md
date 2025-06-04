@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi! I am Charalampos Semelidis
- Bachelor of Applied Sciences | 💻 Frontend-Focused Web Developer
+🎓 Bachelor of Applied Sciences | 💻 Frontend-Focused Web Developer
 Passionate about building clean, user-friendly interfaces with a touch of backend to keep things running smoothly. Always learning, always coding. Let's build something cool!
 
 
